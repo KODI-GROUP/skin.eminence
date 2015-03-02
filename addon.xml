@@ -2,8 +2,8 @@
 <addon
     id="skin.eminence-HE"
     version="1.0.0"
-    name="Eminence HEB"
-    provider-name="jurialmunkey">
+    name="Eminence Hebrew"
+    provider-name="KODI-GROUP">
     <requires>
         <import addon="xbmc.gui" version="5.3.0"/>
         <import addon="service.skin.widgets" version="0.0.29"/>
